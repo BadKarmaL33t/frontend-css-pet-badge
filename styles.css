@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-article {
+.pet-badge {
     display: inline-block;
     background-color: #EED7C5;
     padding: 32px;
@@ -20,7 +20,7 @@ article {
     margin-bottom: 10px;
 }
 
-h2 {
+.pet-name {
     font-family: 'Oleo Script Swash Caps', cursive;
     color: #B36A5E;
     text-align: center;
