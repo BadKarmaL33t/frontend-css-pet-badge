@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+article {
+    display: inline-block;
+    background-color: #EED7C5;
+    padding: 32px;
+    border-radius: 8px;
+    border: 1px ridge #EED7C5;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.16)
+}
+
+.dog-image {
+    width: 300px;
+    border: 8px solid #B36A5E;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    color: #B36A5E;
+    text-align: center;
+    font-size: 60px;
+    margin: 0;
+}
